@@ -1,5 +1,10 @@
 {
   "layers": {
+    "humanoid": [
+      {
+        "texture": "meowpack:mammae_ardens"
+      }
+    ],
     "wings": [
       {
         "texture": "meowpack:mammae_ardens"
@@ -7,3 +12,4 @@
     ]
   }
 }
+
