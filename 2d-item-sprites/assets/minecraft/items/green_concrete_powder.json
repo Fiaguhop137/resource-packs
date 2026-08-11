@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/green wool"
+    "model": "minecraft:item/green_concrete_powder"
   }
 }

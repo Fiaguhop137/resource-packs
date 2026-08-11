@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/green wool"
+    "layer0": "minecraft:item/yellow_concrete_powder"
   }
 }
