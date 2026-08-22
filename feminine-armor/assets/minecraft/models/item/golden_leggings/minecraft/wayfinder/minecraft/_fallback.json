@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_leggings/minecraft/wayfinder",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/wayfinder/minecraft/_fallback"
+  }
+}

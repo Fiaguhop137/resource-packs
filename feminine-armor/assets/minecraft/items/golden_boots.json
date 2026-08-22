@@ -1,0 +1,2371 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "when": "minecraft:redstone",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/redstone"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:redstone"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/redstone"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/redstone"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:copper",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/copper"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:copper"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/copper"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/copper"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:gold",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/gold"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:gold"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/gold"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/gold"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:emerald",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/emerald"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:emerald"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/emerald"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/emerald"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:diamond",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/diamond"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:diamond"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/diamond"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/diamond"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:lapis",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/lapis"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:lapis"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/lapis"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/lapis"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:amethyst",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/amethyst"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:amethyst"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/amethyst"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/amethyst"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:quartz",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/quartz"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:quartz"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/quartz"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/quartz"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:iron",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/iron"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:iron"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/iron"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/iron"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:netherite",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/netherite"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:netherite"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/netherite"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/netherite"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      },
+      {
+        "when": "minecraft:resin",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "when": {
+                "pattern": "minecraft:sentry",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:vex",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wild",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:coast",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:dune",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:wayfinder",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:raiser",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:shaper",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:host",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/host/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:ward",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:silence",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:tide",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:snout",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:rib",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:eye",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:spire",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:bolt",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/resin"
+              }
+            },
+            {
+              "when": {
+                "pattern": "minecraft:flow",
+                "material": "minecraft:resin"
+              },
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/resin"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/resin"
+          },
+          "property": "minecraft:component",
+          "component": "minecraft:trim"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "on_true": {
+        "type": "minecraft:condition",
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/golden_boots/minecraft/sentry/minecraft/_fallback"
+        },
+        "on_false": {
+          "type": "minecraft:condition",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_boots/minecraft/vex/minecraft/_fallback"
+          },
+          "on_false": {
+            "type": "minecraft:condition",
+            "on_true": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/golden_boots/minecraft/wild/minecraft/_fallback"
+            },
+            "on_false": {
+              "type": "minecraft:condition",
+              "on_true": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/golden_boots/minecraft/coast/minecraft/_fallback"
+              },
+              "on_false": {
+                "type": "minecraft:condition",
+                "on_true": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/golden_boots/minecraft/dune/minecraft/_fallback"
+                },
+                "on_false": {
+                  "type": "minecraft:condition",
+                  "on_true": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/golden_boots/minecraft/wayfinder/minecraft/_fallback"
+                  },
+                  "on_false": {
+                    "type": "minecraft:condition",
+                    "on_true": {
+                      "type": "minecraft:model",
+                      "model": "minecraft:item/golden_boots/minecraft/raiser/minecraft/_fallback"
+                    },
+                    "on_false": {
+                      "type": "minecraft:condition",
+                      "on_true": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/golden_boots/minecraft/shaper/minecraft/_fallback"
+                      },
+                      "on_false": {
+                        "type": "minecraft:condition",
+                        "on_true": {
+                          "type": "minecraft:model",
+                          "model": "minecraft:item/golden_boots/minecraft/host/minecraft/_fallback"
+                        },
+                        "on_false": {
+                          "type": "minecraft:condition",
+                          "on_true": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:item/golden_boots/minecraft/ward/minecraft/_fallback"
+                          },
+                          "on_false": {
+                            "type": "minecraft:condition",
+                            "on_true": {
+                              "type": "minecraft:model",
+                              "model": "minecraft:item/golden_boots/minecraft/silence/minecraft/_fallback"
+                            },
+                            "on_false": {
+                              "type": "minecraft:condition",
+                              "on_true": {
+                                "type": "minecraft:model",
+                                "model": "minecraft:item/golden_boots/minecraft/tide/minecraft/_fallback"
+                              },
+                              "on_false": {
+                                "type": "minecraft:condition",
+                                "on_true": {
+                                  "type": "minecraft:model",
+                                  "model": "minecraft:item/golden_boots/minecraft/snout/minecraft/_fallback"
+                                },
+                                "on_false": {
+                                  "type": "minecraft:condition",
+                                  "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": "minecraft:item/golden_boots/minecraft/rib/minecraft/_fallback"
+                                  },
+                                  "on_false": {
+                                    "type": "minecraft:condition",
+                                    "on_true": {
+                                      "type": "minecraft:model",
+                                      "model": "minecraft:item/golden_boots/minecraft/eye/minecraft/_fallback"
+                                    },
+                                    "on_false": {
+                                      "type": "minecraft:condition",
+                                      "on_true": {
+                                        "type": "minecraft:model",
+                                        "model": "minecraft:item/golden_boots/minecraft/spire/minecraft/_fallback"
+                                      },
+                                      "on_false": {
+                                        "type": "minecraft:condition",
+                                        "on_true": {
+                                          "type": "minecraft:model",
+                                          "model": "minecraft:item/golden_boots/minecraft/bolt/minecraft/_fallback"
+                                        },
+                                        "on_false": {
+                                          "type": "minecraft:condition",
+                                          "on_true": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/golden_boots/minecraft/flow/minecraft/_fallback"
+                                          },
+                                          "on_false": {
+                                            "type": "minecraft:model",
+                                            "model": "minecraft:item/golden_boots/minecraft/_fallback/minecraft/_fallback"
+                                          },
+                                          "property": "minecraft:component",
+                                          "predicate": "trim",
+                                          "value": {
+                                            "pattern": "minecraft:flow"
+                                          }
+                                        },
+                                        "property": "minecraft:component",
+                                        "predicate": "trim",
+                                        "value": {
+                                          "pattern": "minecraft:bolt"
+                                        }
+                                      },
+                                      "property": "minecraft:component",
+                                      "predicate": "trim",
+                                      "value": {
+                                        "pattern": "minecraft:spire"
+                                      }
+                                    },
+                                    "property": "minecraft:component",
+                                    "predicate": "trim",
+                                    "value": {
+                                      "pattern": "minecraft:eye"
+                                    }
+                                  },
+                                  "property": "minecraft:component",
+                                  "predicate": "trim",
+                                  "value": {
+                                    "pattern": "minecraft:rib"
+                                  }
+                                },
+                                "property": "minecraft:component",
+                                "predicate": "trim",
+                                "value": {
+                                  "pattern": "minecraft:snout"
+                                }
+                              },
+                              "property": "minecraft:component",
+                              "predicate": "trim",
+                              "value": {
+                                "pattern": "minecraft:tide"
+                              }
+                            },
+                            "property": "minecraft:component",
+                            "predicate": "trim",
+                            "value": {
+                              "pattern": "minecraft:silence"
+                            }
+                          },
+                          "property": "minecraft:component",
+                          "predicate": "trim",
+                          "value": {
+                            "pattern": "minecraft:ward"
+                          }
+                        },
+                        "property": "minecraft:component",
+                        "predicate": "trim",
+                        "value": {
+                          "pattern": "minecraft:host"
+                        }
+                      },
+                      "property": "minecraft:component",
+                      "predicate": "trim",
+                      "value": {
+                        "pattern": "minecraft:shaper"
+                      }
+                    },
+                    "property": "minecraft:component",
+                    "predicate": "trim",
+                    "value": {
+                      "pattern": "minecraft:raiser"
+                    }
+                  },
+                  "property": "minecraft:component",
+                  "predicate": "trim",
+                  "value": {
+                    "pattern": "minecraft:wayfinder"
+                  }
+                },
+                "property": "minecraft:component",
+                "predicate": "trim",
+                "value": {
+                  "pattern": "minecraft:dune"
+                }
+              },
+              "property": "minecraft:component",
+              "predicate": "trim",
+              "value": {
+                "pattern": "minecraft:coast"
+              }
+            },
+            "property": "minecraft:component",
+            "predicate": "trim",
+            "value": {
+              "pattern": "minecraft:wild"
+            }
+          },
+          "property": "minecraft:component",
+          "predicate": "trim",
+          "value": {
+            "pattern": "minecraft:vex"
+          }
+        },
+        "property": "minecraft:component",
+        "predicate": "trim",
+        "value": {
+          "pattern": "minecraft:sentry"
+        }
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/golden_boots"
+      },
+      "property": "minecraft:has_component",
+      "component": "minecraft:trim"
+    },
+    "property": "minecraft:trim_material"
+  }
+}

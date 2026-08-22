@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_leggings/minecraft/bolt",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/bolt/minecraft/lapis"
+  }
+}

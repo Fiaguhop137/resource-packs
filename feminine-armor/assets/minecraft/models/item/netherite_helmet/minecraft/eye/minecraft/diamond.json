@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/eye",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/eye/minecraft/diamond"
+  }
+}

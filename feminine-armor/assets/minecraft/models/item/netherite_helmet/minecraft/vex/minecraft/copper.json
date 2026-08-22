@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/vex",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/vex/minecraft/copper"
+  }
+}

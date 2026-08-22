@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_leggings/minecraft/eye",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/eye/minecraft/iron"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/raiser",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/raiser/minecraft/netherite/darker"
+  }
+}

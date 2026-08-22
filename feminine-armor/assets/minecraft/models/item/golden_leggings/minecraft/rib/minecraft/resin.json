@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_leggings/minecraft/rib",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/rib/minecraft/resin"
+  }
+}

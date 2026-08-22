@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_helmet/minecraft/spire",
+  "textures": {
+    "layer1": "minecraft:trims/items/helmet_trim/minecraft/spire/minecraft/quartz"
+  }
+}

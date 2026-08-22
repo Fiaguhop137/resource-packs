@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_leggings/minecraft/flow",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/flow/minecraft/netherite"
+  }
+}

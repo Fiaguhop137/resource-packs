@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_chestplate/minecraft/shaper",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/shaper/minecraft/diamond"
+  }
+}

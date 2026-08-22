@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_leggings/minecraft/shaper",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/shaper/minecraft/emerald"
+  }
+}

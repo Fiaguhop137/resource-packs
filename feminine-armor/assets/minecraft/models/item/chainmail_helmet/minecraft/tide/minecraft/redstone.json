@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_helmet/minecraft/tide",
+  "textures": {
+    "layer1": "minecraft:trims/items/helmet_trim/minecraft/tide/minecraft/redstone"
+  }
+}

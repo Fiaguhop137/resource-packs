@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_chestplate/minecraft/dune",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/dune/minecraft/quartz"
+  }
+}

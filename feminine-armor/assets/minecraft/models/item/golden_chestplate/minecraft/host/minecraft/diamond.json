@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_chestplate/minecraft/host",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/host/minecraft/diamond"
+  }
+}

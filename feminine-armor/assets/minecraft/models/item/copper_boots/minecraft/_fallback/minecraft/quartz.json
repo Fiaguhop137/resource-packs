@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_boots/minecraft/_fallback",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/_fallback/minecraft/quartz"
+  }
+}

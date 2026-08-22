@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_boots/minecraft/coast",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/coast/minecraft/gold"
+  }
+}

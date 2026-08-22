@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/rib",
+  "textures": {
+    "layer2": "minecraft:trims/items/leggings_trim/minecraft/rib/minecraft/_fallback"
+  }
+}

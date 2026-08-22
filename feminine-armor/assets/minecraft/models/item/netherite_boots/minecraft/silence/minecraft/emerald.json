@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_boots/minecraft/silence",
+  "textures": {
+    "layer1": "minecraft:item/netherite_boots/trim/minecraft/silence/minecraft/emerald"
+  }
+}

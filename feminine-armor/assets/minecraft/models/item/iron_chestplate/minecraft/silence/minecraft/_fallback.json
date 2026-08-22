@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_chestplate/minecraft/silence",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/silence/minecraft/_fallback"
+  }
+}

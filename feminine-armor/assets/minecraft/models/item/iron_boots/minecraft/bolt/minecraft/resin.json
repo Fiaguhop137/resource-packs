@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_boots/minecraft/bolt",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/bolt/minecraft/resin"
+  }
+}

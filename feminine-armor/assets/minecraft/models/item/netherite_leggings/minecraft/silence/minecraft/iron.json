@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_leggings/minecraft/silence",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/silence/minecraft/iron"
+  }
+}

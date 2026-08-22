@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_leggings/minecraft/tide",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/tide/minecraft/gold"
+  }
+}

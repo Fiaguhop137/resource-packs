@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_chestplate/minecraft/spire",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/spire/minecraft/copper/darker"
+  }
+}

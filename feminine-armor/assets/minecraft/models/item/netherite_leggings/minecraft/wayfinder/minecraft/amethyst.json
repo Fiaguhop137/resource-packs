@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_leggings/minecraft/wayfinder",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/wayfinder/minecraft/amethyst"
+  }
+}

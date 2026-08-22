@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/snout",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/snout/minecraft/redstone"
+  }
+}

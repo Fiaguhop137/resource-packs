@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_chestplate/minecraft/shaper",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/shaper/minecraft/netherite/darker"
+  }
+}

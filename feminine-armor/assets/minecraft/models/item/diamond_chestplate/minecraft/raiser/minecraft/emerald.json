@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_chestplate/minecraft/raiser",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/raiser/minecraft/emerald"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_boots/minecraft/dune",
+  "textures": {
+    "layer2": "minecraft:trims/items/boots_trim/minecraft/dune/minecraft/resin"
+  }
+}

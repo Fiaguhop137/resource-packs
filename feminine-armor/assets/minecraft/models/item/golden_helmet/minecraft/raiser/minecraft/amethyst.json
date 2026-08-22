@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_helmet/minecraft/raiser",
+  "textures": {
+    "layer1": "minecraft:trims/items/helmet_trim/minecraft/raiser/minecraft/amethyst"
+  }
+}

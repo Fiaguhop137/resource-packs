@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_chestplate/minecraft/shaper",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/shaper/minecraft/amethyst"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_boots/minecraft/wild",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/wild/minecraft/amethyst"
+  }
+}

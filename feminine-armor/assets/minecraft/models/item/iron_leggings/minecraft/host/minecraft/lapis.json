@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_leggings/minecraft/host",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/host/minecraft/lapis"
+  }
+}

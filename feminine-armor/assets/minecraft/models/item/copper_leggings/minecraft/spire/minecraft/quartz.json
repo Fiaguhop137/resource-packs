@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_leggings/minecraft/spire",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/spire/minecraft/quartz"
+  }
+}

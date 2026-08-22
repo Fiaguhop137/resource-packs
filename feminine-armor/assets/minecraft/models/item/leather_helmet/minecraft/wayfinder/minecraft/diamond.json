@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_helmet/minecraft/wayfinder",
+  "textures": {
+    "layer2": "minecraft:trims/items/helmet_trim/minecraft/wayfinder/minecraft/diamond"
+  }
+}

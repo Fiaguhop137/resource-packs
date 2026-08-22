@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_helmet/minecraft/spire",
+  "textures": {
+    "layer1": "minecraft:trims/items/helmet_trim/minecraft/spire/minecraft/gold"
+  }
+}

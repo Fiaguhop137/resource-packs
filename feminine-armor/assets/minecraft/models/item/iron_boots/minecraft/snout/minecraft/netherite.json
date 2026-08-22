@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_boots/minecraft/snout",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/snout/minecraft/netherite"
+  }
+}

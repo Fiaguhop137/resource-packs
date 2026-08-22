@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_helmet/minecraft/eye",
+  "textures": {
+    "layer1": "minecraft:trims/items/helmet_trim/minecraft/eye/minecraft/gold"
+  }
+}

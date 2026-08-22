@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_chestplate/minecraft/rib",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/rib/minecraft/copper"
+  }
+}

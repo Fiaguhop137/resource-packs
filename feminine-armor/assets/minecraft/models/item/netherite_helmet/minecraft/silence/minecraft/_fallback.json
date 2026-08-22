@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/silence",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/silence/minecraft/_fallback"
+  }
+}

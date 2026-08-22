@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_chestplate/minecraft/coast",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/coast/minecraft/copper"
+  }
+}

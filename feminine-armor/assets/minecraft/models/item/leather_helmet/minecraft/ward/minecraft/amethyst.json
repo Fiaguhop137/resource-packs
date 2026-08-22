@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_helmet/minecraft/ward",
+  "textures": {
+    "layer2": "minecraft:trims/items/helmet_trim/minecraft/ward/minecraft/amethyst"
+  }
+}

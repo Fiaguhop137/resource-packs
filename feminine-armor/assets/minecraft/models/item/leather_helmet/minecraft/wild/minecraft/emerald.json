@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_helmet/minecraft/wild",
+  "textures": {
+    "layer2": "minecraft:trims/items/helmet_trim/minecraft/wild/minecraft/emerald"
+  }
+}

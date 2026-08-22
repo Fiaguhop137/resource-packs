@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/tide",
+  "textures": {
+    "layer2": "minecraft:trims/items/chestplate_trim/minecraft/tide/minecraft/lapis"
+  }
+}

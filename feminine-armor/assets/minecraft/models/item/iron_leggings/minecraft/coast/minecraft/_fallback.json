@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_leggings/minecraft/coast",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/coast/minecraft/_fallback"
+  }
+}

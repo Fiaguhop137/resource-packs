@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_chestplate/minecraft/silence",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/silence/minecraft/netherite"
+  }
+}

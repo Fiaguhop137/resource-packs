@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_leggings/minecraft/coast",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/coast/minecraft/netherite"
+  }
+}

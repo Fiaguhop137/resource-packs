@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_chestplate/minecraft/bolt",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/bolt/minecraft/iron"
+  }
+}

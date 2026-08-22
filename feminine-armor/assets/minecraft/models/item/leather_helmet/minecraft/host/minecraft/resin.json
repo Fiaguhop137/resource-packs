@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_helmet/minecraft/host",
+  "textures": {
+    "layer2": "minecraft:trims/items/helmet_trim/minecraft/host/minecraft/resin"
+  }
+}

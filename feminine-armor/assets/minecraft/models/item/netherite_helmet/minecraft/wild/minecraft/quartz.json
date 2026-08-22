@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/wild",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/wild/minecraft/quartz"
+  }
+}

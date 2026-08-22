@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/silence",
+  "textures": {
+    "layer2": "minecraft:trims/items/chestplate_trim/minecraft/silence/minecraft/amethyst"
+  }
+}

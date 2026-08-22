@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_chestplate/minecraft/wayfinder",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/wayfinder/minecraft/emerald"
+  }
+}

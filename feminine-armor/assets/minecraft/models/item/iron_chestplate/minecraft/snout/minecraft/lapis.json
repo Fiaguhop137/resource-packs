@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_chestplate/minecraft/snout",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/snout/minecraft/lapis"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_leggings/minecraft/host",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/host/minecraft/emerald"
+  }
+}

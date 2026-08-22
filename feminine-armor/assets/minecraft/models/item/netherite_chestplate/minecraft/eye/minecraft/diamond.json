@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_chestplate/minecraft/eye",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/eye/minecraft/diamond"
+  }
+}

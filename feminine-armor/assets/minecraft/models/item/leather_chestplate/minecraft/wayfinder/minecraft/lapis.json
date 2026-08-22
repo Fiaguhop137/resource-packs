@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/wayfinder",
+  "textures": {
+    "layer2": "minecraft:trims/items/chestplate_trim/minecraft/wayfinder/minecraft/lapis"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_leggings/minecraft/sentry",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/sentry/minecraft/_fallback"
+  }
+}

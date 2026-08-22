@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/sentry",
+  "textures": {
+    "layer2": "minecraft:trims/items/leggings_trim/minecraft/sentry/minecraft/redstone"
+  }
+}

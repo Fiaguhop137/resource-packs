@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_chestplate/minecraft/ward",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/ward/minecraft/copper"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/flow",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/flow/minecraft/gold"
+  }
+}

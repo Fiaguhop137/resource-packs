@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_chestplate/minecraft/bolt",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/bolt/minecraft/redstone"
+  }
+}

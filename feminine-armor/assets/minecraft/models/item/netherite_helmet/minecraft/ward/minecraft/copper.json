@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/ward",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/ward/minecraft/copper"
+  }
+}

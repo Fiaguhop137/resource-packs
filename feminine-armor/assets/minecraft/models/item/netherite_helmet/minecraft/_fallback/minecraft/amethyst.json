@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet/minecraft/_fallback",
+  "textures": {
+    "layer1": "minecraft:item/netherite_helmet/trim/minecraft/_fallback/minecraft/amethyst"
+  }
+}

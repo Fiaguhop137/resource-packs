@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_leggings/minecraft/ward",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/ward/minecraft/emerald"
+  }
+}

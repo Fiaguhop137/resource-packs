@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_chestplate/minecraft/_fallback",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/_fallback/minecraft/_fallback"
+  }
+}

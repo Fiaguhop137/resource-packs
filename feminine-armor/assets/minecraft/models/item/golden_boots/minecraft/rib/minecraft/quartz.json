@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_boots/minecraft/rib",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/rib/minecraft/quartz"
+  }
+}

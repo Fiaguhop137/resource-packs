@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_boots/minecraft/coast",
+  "textures": {
+    "layer1": "minecraft:item/netherite_boots/trim/minecraft/coast/minecraft/iron"
+  }
+}

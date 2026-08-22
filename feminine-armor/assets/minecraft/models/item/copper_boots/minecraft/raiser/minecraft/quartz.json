@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_boots/minecraft/raiser",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/raiser/minecraft/quartz"
+  }
+}
