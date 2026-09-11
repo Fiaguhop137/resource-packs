@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/netherite_leggings/minecraft/spire",
-  "textures": {
-    "layer1": "minecraft:trims/items/leggings_trim/minecraft/spire/minecraft/gold"
-  }
-}

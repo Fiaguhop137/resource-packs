@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/chainmail_chestplate/minecraft/ward",
-  "textures": {
-    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/ward/minecraft/emerald"
-  }
-}

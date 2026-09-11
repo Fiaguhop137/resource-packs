@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/copper_boots/minecraft/tide",
-  "textures": {
-    "layer1": "minecraft:trims/items/boots_trim/minecraft/tide/minecraft/resin"
-  }
-}

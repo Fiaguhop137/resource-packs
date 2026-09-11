@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/iron_leggings/minecraft/raiser",
-  "textures": {
-    "layer1": "minecraft:trims/items/leggings_trim/minecraft/raiser/minecraft/resin"
-  }
-}

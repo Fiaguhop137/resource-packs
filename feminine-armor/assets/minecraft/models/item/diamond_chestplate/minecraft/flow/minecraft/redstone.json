@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/diamond_chestplate/minecraft/flow",
-  "textures": {
-    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/flow/minecraft/redstone"
-  }
-}

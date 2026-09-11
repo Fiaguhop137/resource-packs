@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/chainmail_leggings/minecraft/silence",
-  "textures": {
-    "layer1": "minecraft:trims/items/leggings_trim/minecraft/silence/minecraft/emerald"
-  }
-}
