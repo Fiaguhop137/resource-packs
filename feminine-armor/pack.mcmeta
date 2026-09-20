@@ -1,7 +1,7 @@
 {
   "pack": {
-    "description": "Feminine Armor Texture Pack by Fiaguhop137",
-    "min_format": [69,0],
-    "max_format": [88,0]
+    "min_format": [88, 0],
+    "max_format": [88, 0],
+    "description": "feminine armor, for Minecraft Java 26.2 by Fiaguhop137"
   }
 }
